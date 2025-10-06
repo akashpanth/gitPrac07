@@ -2,6 +2,9 @@
 
 int main(void) {
 
+    printf("hello from group fugi?\n");
+    printf("akasii, ram, len\n");
+
     printf("Hello from Sapporo Stars\n");
     printf(" hello i am form future\n");
 
