@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main(void) {
-    printf("Hello from ?????\n");
-    printf("please enter your message\n");
+    printf("Hello from Kyoto Team\n");
+    printf("わいやでーーー\n");
     return 0;
 }
